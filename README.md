@@ -1,6 +1,6 @@
 # CryptoCurrencyWallet
 
-![blockchain](https://github.com/jtraboulsi/CryptoCurrencyWallet/blob/main/Images/19-4-challenge-image.JPG)
+![blockchain](https://github.com/jtraboulsi/CryptoCurrencyWallet/blob/main/Images/19-4-challenge-image.jpg)
 
 ## Summary
 Developed a web application designed to interface &amp; send payments in the Ethereum blockchain
@@ -18,6 +18,6 @@ Blockchain is a system of recording information (in our case, monetary transacti
 
 ## Results
 
-![blockchain](https://github.com/jtraboulsi/CryptoCurrencyWallet/blob/main/Images/Ganache.JPG)
+![blockchain](https://github.com/jtraboulsi/CryptoCurrencyWallet/blob/main/Images/Ganache.jpg)
 
-![blockchain](https://github.com/jtraboulsi/CryptoCurrencyWallet/blob/main/Images/transaction_hash_ganache.JPG)
+![blockchain](https://github.com/jtraboulsi/CryptoCurrencyWallet/blob/main/Images/transaction_hash_ganache.jpg)
